@@ -7,85 +7,89 @@
 
 // intro text, should be exactly 3 lines
 #!company id{c-await}
-Salvage Engineer,
-arrival report acknowledged
-await instruction.
+Engenheiro Resgatador,
+Relatório de chegada reconhecido,
+Aguarde instruções.
 
 
 #!company id{c-receiving}
-Receiving Communication
-
+Recebendo Comunicação
 
 #!company id{c-ack}
-Acknowledge
+Entendido
 
 
 #!company id{c-arrive}
-# Re: Iceni salvage arrival report
+# Re:Relatório de chegada do resgate em Icenos
 
-So you found a robot? Looks cute, if a little primitive. But if that's the best salvage you can find... well, let's just say it won't even cover the cost of the value nutri-soup rations you're no doubt enjoying as you read this.
+Então você encontrou um robô? Parece fofo, Se bem que um tanto quanto primitivo. Mas se esse é o melhor resgate que você pode reaver... Bom, vamos apenas dizer que isso não cobre nem mesmo o valor dessas rações de nutrientes em sopa que sem dúvidas você deve estar aproveitando enquanto lê isso.
 
-Have reviewed the scans you sent and I have to say I'm a little vexed. If I wanted you to find rusted metal and useless detritus you could have just stayed on earth. Iceni was a state of the art vessel. Where are all the ship components, cladding and computers? Where are the colonists???
+Eu revi o escaneamento que você me enviou, e eu tenho que dizer que eu estou um pouco constrangida.Se eu quisesse que você encontrasse metal enferrujado e detritos inúteis você poderia simplesmente ter permanecido na terra. 
+Icenos era um embarcação em estado da arte.Onde estão todos os componentes da nave,revestimento e computadores?Onde estão os colonos??? O clima na superfície deve ser mais severo do que é esperado para ter o dilacerado dessa forma. Então não é de se admirar que você não está coletando sobreviventes.Portanto eu concordo com sua idéia de tentar e usar esse robô que você encontrou, ao invés de você.
+Melhor prevenir do que remediar já que não posso perder mais NENHUM de vocês nesse trimestre. Então se conecte ao seu novo melhor amigo aí e encontre uma maneira de resgatar algo através disso. Porque enquanto nós não estivermos fazendo uma grande busca,eu estou dando uma má impressão a Nigel.E se eu estou sendo observada de uma maneira negativa,você vai acabar procurando por um novo emprego.
 
-Surface weather must be much harsher than expected to have torn it apart like that, so no wonder you aren't picking up any survivors. Therefore I agree with your idea to try and use this robot you've found in your stead. Better safe than sorry as I can't lose ANY more of you guys this quarter.
-
-So get connected to your new best friend down there and find a way to salvage something from this. Because when we aren't making big hauls, I'm looking bad to Nigel. And if I'm looking bad, you're looking for a new job.
-
-Ciao for now,
+Ciao por agora,
 Judith
 
 
 #!company id{c-underground}
-# Re: Iceni salvage report #6
+# Re:Relatório de resgate em Icenos #6
 
-Finally some good news! From the looks of your scan, it's a subterranean entrance. They went underground! I don't think I've ever heard of this before.
+ 
+Finalmente algumas notícia boa,Pelo que se vê no seu scanner é uma entrada subterrânea.Eles foram para o subsolo!Eu não creio que já ouvi falar disso antes.
+Isso significa que os colonos NÃO foram todos congelados até a morte/carregados pelo céu pelos ventos gelados.Metais raros,transmissores...Até as próprias pessoas poderiam estar lá embaixo.Mal posso esperar para falar a Nigel.Ooh...talvez seja algo para Iris.
+Ou talvez algo para Martin!Você encontra algo corpulento e eu poderia estar almoçando em Titã com Grande M. Antes do fim do ano fiscal.Em frente time!
 
-It means that the colonists WEREN'T all frozen to death/carried off into the sky by those icy winds. Rare metals, transmitters... even the people themselves could still be down there.
+Ás vezes eu invejo você,sabia.lá fora. Milhares de milhas longe de casa sem nenhuma distração da família,amigos ou atividades de lazer.Totalmente sozinho com seus pensamentos.Muitos poderiam matar por esse tipo de paz interior.Eu imagino sua experiência.
 
-Can't wait to tell Nigel. Ooh... maybe it's an Iris thing. Or even a Martin thing! You find something juicy and I could be lunching on Titan with big M before the end of the fiscal year. Go team!
-
-Sometimes I envy you, you know. Out there, thousands of miles from home with no distractions from family, friends or leisure activities. Completely alone with your thoughts. Many would kill for the kind of inner peace I imagine you experience.
-
-Keep up the adequate work. And don't accept any attitude from that robot.
+Mantenha o trabalho adequado e não tolere nenhumo destrato desse robô.
 
 Judith
 
 
+
+---
 #!company id{c-lower}
-# Re: Entrance to lower levels
+# Re: Entrada para os níveis inferiores
 
-As your report indicates, it's now clear the colonists built a functioning habitat down there. I don't think I have to tell you how significant this is for us. It's very significant indeed. This means the colonists are very likely to still be down there. You need to reach them. Time is of the essence!
+Como o relatório informa agora ficou claro que os colonos construíram um habitat funcional lá embaixo. Eu não acredito que eu tenho que te dizer o quão significante que isso é para nós. é muito significante de fato.Isso significa que colonos estão possivelmente ainda lá embaixo.Você tem que alcança-los.Tempo é essencial!
 
-Specialist recovery teams are already on their way to assist - our best men and women. But they will take time to reach you. Use the robot to find a path for the teams.
+Times de especialistas em recuperação já estão a caminho para assistência. - nossos melhores homens e mulheres.Mas eles vão levar tempo até chegar à você. Use o robô para encontrar um caminho para as equipes.
 
-The whole executive team are right there with you on this. Martin, the DRO Committee, Grant and Jan, Nigel, Barrington and the guys from the procurement steering group, Niamh, Liam and Robin. Even Pamela. Everybody. And we all just know you've got what it takes to bring those colonists home.
+todo o time de executivos está firme aí contigo nisso.Martin,O Comitê DRO,Grant e Jan,Nigel,Barrington e os rapazes do grupo de direção de compras,Niam,Liam e Robin.Até Pamela.Todo mundo.E todos nós simplesmente sabemos que você tem o que é necessario para trazer esses colonos para casa.
 
 Judith
 
 
 #!company id{c-final}
-# Iceni salvage final report
+# Relatório final de salvaguarda do Icenos
 
-Initial expectation was of a moderate quantity of low-value ship salvage and mineral residue. However, the salvage engineer on site discovered the remains of 21% of the original crew manifest preserved in a secure vault near the planet's core.
+A expectativa inicial era de uma quantidade moderada de material de baixo valor resgatado do navio e de resíduo mineral.
 
-This resulted in well-preserved cadavers of 207 colonists. Genetic analysis shows many are associated with unclaimed legacies and inheritances of significant value. Under the Off-planet Intestacy Act, by acquiring these remains the company now has a strong claim. Itemised breakdown with expected values below in Galacto-drachmae (GD)
+Entretanto o Engenheiro Resgatador no local descobriu os restos de 21% da equipe original preservados em um cofre de segurança perto do núcleo do planeta. Isso resultou em cadáveres bem preservados de 207 colonos. análise genética mostra que muitos estão associados com legados não reivindicados e heranças de valor significativo.Sob a Lei de instetação Extra-planetária,ao adquirir esses restos a compania agora tem uma forte reinvidicão.O índice de itens com seus valores presumidos em Dracma-Galática (DG)
 
- - 207 human remains. Connected to legacies total: 878,000,000,000.00 GD
- - 72,834,841 tonnes of ceramcrete (lightly soiled) @ 10.00 GD / tonne
- - 53,552 ferrotanium panels @ 7.00 GD / panel
- - 98 tonnes of cyber-amethyst @ 29.00 GD / tonne
- - 10 scout buggies. Total value 525.00 GD
- - Personal jewellery and rare metal effects. Melted down 2,560.99 GD
- - 1 power core (plasma scorched) 10,000.00 GD
- - Derelict automata. Scrap value 80.00 GD
- - 1 functional robot & probe. Scrap value 4.00 GD
+ - 207 restos humanos.Conectados com legados,totalizando: 878,000,000,000.00 DG
+ - 72,834,841 toneladas of ceramacrete (levemente empobrecida) a 10.00 DG / tonelada
+ - 53,552 painéis de ferrotânio a 7.00 DG / painel
+ - 98 toneladas de ciber-ametista a 29.00 DG / tonelada
+ - 10 Buggys de reconhecimento. Valor total de 525.00 DG
+ - Jóias particulares e metais raros. Derretidos 2,560.99 DG
+ - 1 núcleo de força (plasma chamuscado) 10,000.00 DG
+ - Autômato abandonado. Valor de sucata 80.00 DG
+ - 1 robô funcional & sonda. Valor de sucata 4.00 DG
+
+
+
 
 
 #!company id{c-promotion}
-# Say hello to the new CSO!
+# Diga oi para a nova OCR!
 
-Great work on the Iceni project. I'm so happy you could participate in what has turned out to be my most successful salvage operation yet. As you may have heard, due to my performance I was deeply honoured to accept an invitation to become Chief Salvage Officer for the Outer Rim (interim).
-
-Don't think I've forgotten your contribution to my project! Your days as a Junior Salvage Engineer are at an end. With the power vested in me as CSO-OR(I), I hereby elevate you to the rank of Salvage Engineer. Congrats!
+Ótimo trabalho no projeto Icenos.Estou tão feliz que você pôde participar daquele que se tornou o meu maior projeto de sucesso em uma operação de salvaguarda até aqui.Como você pode ter ouvido devido ao meu desempenho eu fui profundamente honrada em aceitar um convite para se tornar Oficial-Chefe de Resgate para o anel exterior(interina).
+Não pense que eu esqueci da seu contribuição para o meu projeto!Seus dias como Engenheiro de Resgates Júnior chegaram ao fim.Com o poder investido em mim como OCR-AE(Eu),Eu te elevo ao cargo de Engenheiro de Resgates.Parabéns.
 
 Judith
+
+
+
+
